@@ -1,11 +1,12 @@
 ---
-title: DeLand-Jets
-date: 2024-11-09
+title: JOK 2024
+date: 2024-07-15
 ---
 
-# DeLand Jets
+# JOK 2024
 
-My experience at DeLand Jets was AWESOME!
+My experience at Kentucky Jets was AWESOME!
 Here's what I wrote about it on Facebook:
 
-> Had an awesome weekend at Jets over Deland! Great seeing some old guys and meeting new ones! The aircraft were awesome too. 
+>. Jok is a wrap! Amazing time at the biggest RC jet event, great time hanging out with team horizon hobby and the young guns at PRCJ. My first time out here and I can’t wait for next time!
+![alt text](https://liozengphotos.s3.us-east-2.amazonaws.com/WIN_20241224_10_32_45_Pro.jpg)
