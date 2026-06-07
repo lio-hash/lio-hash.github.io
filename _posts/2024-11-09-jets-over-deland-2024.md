@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jets Over Deland 2024
 date: 2024-11-09
 ---
