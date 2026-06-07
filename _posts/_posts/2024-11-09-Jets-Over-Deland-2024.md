@@ -1,3 +1,9 @@
+---
+title: Jets Over Deland 2024
+date: 2024-11-09
+---
+
+
 ![IMG_4401](/assets/images/IMG_4401.jpg)
 ![IMG_4402](/assets/images/IMG_4402.jpg)
 ![IMG_4403](/assets/images/IMG_4403.jpg)
