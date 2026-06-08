@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 3D Over the Glades 2024
 date: 2024-02-17
 ---
