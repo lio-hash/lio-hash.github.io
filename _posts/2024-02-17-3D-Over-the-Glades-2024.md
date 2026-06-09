@@ -3,16 +3,6 @@ title: 3D Over the Glades 2024
 date: 2024-02-17
 ---
 
-![IMG_4142](/assets/images/IMG_4142.jpg)
-![IMG_4141](/assets/images/IMG_4141.jpg)
-![IMG_4140](/assets/images/IMG_4140.jpg)
-![IMG_4139](/assets/images/IMG_4139.jpg)
-![IMG_4138](/assets/images/IMG_4138.jpg)
-![IMG_4137](/assets/images/IMG_4137.jpg)
-![IMG_4136](/assets/images/IMG_4136.jpg)
-![IMG_4135](/assets/images/IMG_4135.jpg)
-![IMG_4133](/assets/images/IMG_4133.jpg)
-![IMG_4132](/assets/images/IMG_4132.jpg)
 ![IMG_4131](/assets/images/IMG_4131.jpg)
 ![IMG_4125](/assets/images/IMG_4125.jpg)
 ![IMG_4124](/assets/images/IMG_4124.jpg)
