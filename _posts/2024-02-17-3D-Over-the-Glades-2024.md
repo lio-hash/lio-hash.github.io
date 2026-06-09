@@ -3,30 +3,32 @@ title: 3D Over the Glades 2024
 date: 2024-02-17
 ---
 
-<img width="1215" height="911" alt="IMG_4316" src="https://github.com/user-attachments/assets/63238b4f-7a16-46e5-b7aa-1b3a2948aa87" />
-<img width="1215" height="911" alt="IMG_4315" src="https://github.com/user-attachments/assets/401cd8ff-f828-431a-9177-390a3309795e" />
-<img width="1215" height="911" alt="IMG_4314" src="https://github.com/user-attachments/assets/4291bb03-5d00-47bd-b944-acef0c65879d" />
-<img width="1215" height="911" alt="IMG_4313" src="https://github.com/user-attachments/assets/cc1a5cc7-acf9-4e10-80dc-f26c49eadd1e" />
-<img width="1215" height="911" alt="IMG_4312" src="https://github.com/user-attachments/assets/4117ed59-d772-4fe3-b6d9-02f0097a7e55" />
-<img width="1215" height="911" alt="IMG_4310" src="https://github.com/user-attachments/assets/b33e0e28-0cb3-41d8-ab31-b8c0563e8125" />
-<img width="1215" height="911" alt="IMG_4309" src="https://github.com/user-attachments/assets/fdf583a2-43d4-48d9-a976-a0ed09ea7b36" />
-<img width="1215" height="911" alt="IMG_4308" src="https://github.com/user-attachments/assets/49b10a06-2d5a-4b75-890e-f4d7273a67bd" />
-<img width="1215" height="911" alt="IMG_4307" src="https://github.com/user-attachments/assets/617215ba-e45f-4040-82d6-5f20d6ce8503" />
-<img width="1215" height="911" alt="IMG_4306" src="https://github.com/user-attachments/assets/7c3eba4d-b033-43fd-9df9-ec1f2e588873" />
-<img width="1215" height="911" alt="IMG_4305" src="https://github.com/user-attachments/assets/c6a29d22-90eb-48bd-a9e0-4efddcade5e1" />
-<img width="1620" height="911" alt="IMG_4303" src="https://github.com/user-attachments/assets/b75435d9-be24-4e1a-9c1c-c952e080bb44" />
-<img width="1620" height="911" alt="IMG_4302" src="https://github.com/user-attachments/assets/8353a96c-136b-4c5b-84aa-1384e513b06c" />
-<img width="1620" height="911" alt="IMG_4301" src="https://github.com/user-attachments/assets/df39708b-707d-4ead-a9ce-b96963d4fc80" />
-<img width="1620" height="911" alt="IMG_4300" src="https://github.com/user-attachments/assets/f7736a81-9f86-4bf3-b367-e2fb5b6985d7" />
-<img width="1620" height="911" alt="IMG_4299" src="https://github.com/user-attachments/assets/54a6b8ff-094e-4e1f-beaf-aa1a1fd83b14" />
-<img width="1620" height="911" alt="IMG_4297" src="https://github.com/user-attachments/assets/b5b9699d-f9d6-46e2-81ba-7bbfb7916c71" />
-<img width="1620" height="911" alt="IMG_4296" src="https://github.com/user-attachments/assets/1bc92119-47a2-49be-bdd9-c6c42b0259a2" />
-<img width="1215" height="911" alt="IMG_4292" src="https://github.com/user-attachments/assets/0362c64f-eeff-4cde-823f-f902d583d3c6" />
-<img width="1215" height="911" alt="IMG_4291" src="https://github.com/user-attachments/assets/1e15e933-544a-4fce-bb92-f8465880689c" />
-<img width="1215" height="911" alt="IMG_4290" src="https://github.com/user-attachments/assets/8e5c42c8-d5f1-46f8-8d85-f134dd8b2527" />
-<img width="1620" height="911" alt="IMG_4288" src="https://github.com/user-attachments/assets/d9617380-2173-436c-91e6-407ff7be1c76" />
-<img width="1215" height="911" alt="IMG_4287" src="https://github.com/user-attachments/assets/a1d03f72-cc0c-47ed-bd1f-d6d3ac85835a" />
-<img width="1215" height="911" alt="IMG_4286" src="https://github.com/user-attachments/assets/577916b2-5b49-4722-9983-33622bc6dd83" />
+![IMG_4316](/assets/images/IMG_4316.jpg)
+![IMG_4315](/assets/images/IMG_4315.jpg)
+![IMG_4314](/assets/images/IMG_4314.jpg)
+![IMG_4313](/assets/images/IMG_4313.jpg)
+![IMG_4312](/assets/images/IMG_4312.jpg)
+![IMG_4310](/assets/images/IMG_4310.jpg)
+![IMG_4309](/assets/images/IMG_4309.jpg)
+![IMG_4308](/assets/images/IMG_4308.jpg)
+![IMG_4307](/assets/images/IMG_4307.jpg)
+![IMG_4306](/assets/images/IMG_4306.jpg)
+![IMG_4305](/assets/images/IMG_4305.jpg)
+![IMG_4303](/assets/images/IMG_4303.jpg)
+![IMG_4302](/assets/images/IMG_4302.jpg)
+![IMG_4301](/assets/images/IMG_4301.jpg)
+![IMG_4300](/assets/images/IMG_4300.jpg)
+![IMG_4299](/assets/images/IMG_4299.jpg)
+![IMG_4297](/assets/images/IMG_4297.jpg)
+![IMG_4296](/assets/images/IMG_4296.jpg)
+![IMG_4292](/assets/images/IMG_4292.jpg)
+![IMG_4291](/assets/images/IMG_4291.jpg)
+![IMG_4290](/assets/images/IMG_4290.jpg)
+![IMG_4288](/assets/images/IMG_4288.jpg)
+![IMG_4287](/assets/images/IMG_4287.jpg)
+![IMG_4286](/assets/images/IMG_4286.jpg)
+![IMG_4131](/assets/images/IMG_4131.jpg)
+![IMG_4125](/assets/images/IMG_4125.jpg)
 ![IMG_4131](/assets/images/IMG_4131.jpg)
 ![IMG_4125](/assets/images/IMG_4125.jpg)
 ![IMG_4124](/assets/images/IMG_4124.jpg)
