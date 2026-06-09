@@ -97,7 +97,6 @@ date: 2024-02-17
 ![IMG_4288](/assets/images/IMG_4288.jpg)
 ![IMG_4287](/assets/images/IMG_4287.jpg)
 ![IMG_4286](/assets/images/IMG_4286.jpg)
-![IMG_4131](/assets/images/IMG_4131.jpg)
 ![IMG_4125](/assets/images/IMG_4125.jpg)
 ![IMG_4131](/assets/images/IMG_4131.jpg)
 ![IMG_4125](/assets/images/IMG_4125.jpg)
