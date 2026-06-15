@@ -75,6 +75,3 @@ date: 2026-02-20
 ![IMG_4073](/assets/images/IMG_4073.jpg)
 ![IMG_4125](/assets/images/IMG_4125.jpg)
 ![IMG_4124](/assets/images/IMG_4124.jpg)
-![IMG_4123](/assets/images/IMG_4123.jpg)
-![IMG_4122](/assets/images/IMG_4122.jpg)
-![IMG_4118](/assets/images/IMG_4118.jpg)
