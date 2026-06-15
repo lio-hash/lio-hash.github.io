@@ -77,7 +77,6 @@ date: 2024-02-17
 ![IMG_4136](/assets/images/IMG_4136.jpg)
 ![IMG_4135](/assets/images/IMG_4135.jpg)
 ![IMG_4133](/assets/images/IMG_4133.jpg)
-![IMG_4132](/assets/images/IMG_4132.jpg)
 ![IMG_4055](/assets/images/IMG_4055.jpg)
 ![IMG_4053](/assets/images/IMG_4053.jpg)
 ![IMG_4052](/assets/images/IMG_4052.jpg)
