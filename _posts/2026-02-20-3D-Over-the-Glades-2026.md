@@ -1,6 +1,6 @@
 ---
 title: 3D Over the Glades 2026
-date: 02-20-2026
+date: 2026-02-20
 ---
 ![IMG_4132](/assets/images/IMG_4132.jpg)
 ![IMG_4129](/assets/images/IMG_4129.jpg)
