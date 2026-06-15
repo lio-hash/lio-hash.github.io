@@ -16,8 +16,6 @@ date: 2024-02-17
 ![IMG_4108](/assets/images/IMG_4108.JPG)
 ![IMG_4107](/assets/images/IMG_4107.JPG)
 ![IMG_4106](/assets/images/IMG_4106.JPG)
-![IMG_4095](/assets/images/IMG_4095.JPG)
-![IMG_4093](/assets/images/IMG_4093.JPG)
 ![IMG_4092](/assets/images/IMG_4092.JPG)
 ![IMG_4084](/assets/images/IMG_4084.JPG)
 ![IMG_4082](/assets/images/IMG_4082.JPG)
