@@ -2,6 +2,8 @@
 title: 3D Over the Glades 2025
 date: 2025-02-20
 ---
+![IMG_6699](/assets/images/IMG_6699.jpg)
+![IMG_6698](/assets/images/IMG_6698.jpg)
 ![IMG_6695](/assets/images/IMG_6695.JPG)
 ![IMG_6694](/assets/images/IMG_6694.JPG)
 ![IMG_6693](/assets/images/IMG_6693.JPG)
