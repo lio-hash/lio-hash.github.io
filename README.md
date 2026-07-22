@@ -1,6 +1,6 @@
 <header>
 
-This repository documents my journey in RC aviation photography, including:
+This repository documents my journey in RC (Radio-Controlled) aviation photography, including:
 
 - RC airplane action shots
 - Static aircraft photography
